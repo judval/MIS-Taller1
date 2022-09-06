@@ -4,7 +4,7 @@
 
 **Universidad de los Andes**
 
-Integrantes: [Juan Felipe Agudelo Rios](https://github.com/), [David Santiago Caraballo Candela](https://github.com/scaraballoc), [Rafael Andrés Santofimio Rivera](https://github.com/) & [Juan Diego Valencia Romero](https://github.com/judval).
+Integrantes: [Juan Felipe Agudelo Rios](https://github.com/), [David Santiago Caraballo Candela](https://github.com/scaraballoc), [Rafael Andrés Santofimio Rivera](https://github.com/) y [Juan Diego Valencia Romero](https://github.com/judval).
 
 En el presente repositorio se encuentran todos los documentos, bases de datos y códigos utilizados durante el desarrollo del Taller 1 de la clase *Big Data & Machine Learning for Applied Economics*, del profesor [Ignacio Sarmiento](https://ignaciomsarmiento.github.io/), durante el segundo semestre del año 2022.
 
