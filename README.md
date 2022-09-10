@@ -8,7 +8,17 @@ Integrantes: [Juan Felipe Agudelo Rios](https://github.com/), [David Santiago Ca
 
 En el presente repositorio se encuentran todos los documentos, bases de datos y códigos utilizados durante el desarrollo del Taller 1 de la clase *Modelos de Interacciones Sociales*, del profesor [Alvaro José Riascos Villegas](https://ignaciomsarmiento.github.io/), durante el segundo semestre del año 2022.
 
-Este trabajo tenía como objetivo el desarrollo de un modelo de predicción del ingreso de los ciudadanos de Bogotá D.C., Colombia, a partir del uso de una [base de datos](https://ignaciomsarmiento.github.io/GEIH2018_sample/) del 2018 de la Gran Encuesta Integrada de Hogares (GEIH) recolectada por el Departamento Administrativo Nacional de Estadistica (DANE). Tal insumo, con la intención de mejorar el proceso de identificación de fraude fiscal en personas que no reportan la totalidad de sus ingresos a las entidades gubernamentales.
+Este trabajo tenía como objetivo aplicar los conceptos vistos durante las clases magistrales y complementarias de las semanas uno (1) a tres (3) del curso. Adicionalmente, los ejercicios resueltos buscan mostrar la compresión del uso de **Python**  
+
+se apliquen los conceptos vistos durante las clases
+Magistral y Complementaria de las semanas 1-3 del curso. Adicional a esto, con
+los ejercicios propuestos se busca desarrollar una mejor comprensi´on del uso de
+Python, de los paquetes vistos en clase y fomentar un razonamiento l´ogico que
+lleve a los estudiantes a comprender e implementar de una buena manera los
+t´opicos tratados.
+
+
+el desarrollo de un modelo de predicción del ingreso de los ciudadanos de Bogotá D.C., Colombia, a partir del uso de una [base de datos](https://ignaciomsarmiento.github.io/GEIH2018_sample/) del 2018 de la Gran Encuesta Integrada de Hogares (GEIH) recolectada por el Departamento Administrativo Nacional de Estadistica (DANE). Tal insumo, con la intención de mejorar el proceso de identificación de fraude fiscal en personas que no reportan la totalidad de sus ingresos a las entidades gubernamentales.
 
 Para organizar y *testear* la especificacion optima del modelo predictivo, se comenzó estimando dos (2) modelos estructurales que buscaban identificar si las variables de edad y género eran determinantes a la hora de entender el comportamiento del ingreso laboral de los ciudadanos. Posteriormente, a partir de estas especificaciones se fueron agregando regresores y controles que pretendían aumentar el poder predictivo del modelo, y la especificación final que se escogió utilizando el proceso de *Leave-One-Out-Cross-Validation (LOOCV)*.
 
